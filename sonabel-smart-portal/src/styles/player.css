@@ -1,0 +1,23 @@
+h3{
+    color:darkblue ;
+}
+
+p{
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+p > span{
+    color:darkgreen ;
+}
+.player-card{
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px gray;
+    width: 200px;
+    padding: 10px;
+}
+img{
+    width: 190px;
+    height: 160px;
+}
